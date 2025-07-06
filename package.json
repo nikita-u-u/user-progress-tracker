@@ -92,5 +92,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "This is a Node.js + Express + MongoDB API to track quiz scores and completed lessons for users.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikita-u-u/user-progress-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nikita-u-u/user-progress-tracker/issues"
+  },
+  "homepage": "https://github.com/nikita-u-u/user-progress-tracker#readme"
 }
